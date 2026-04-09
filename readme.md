@@ -1,6 +1,6 @@
 # Donetix Scan
 
-**Developer**: Rizky Alfi Syahrin
+**Developer**: Rizky Alfi
 
 **Donetix Scan** is a high-performance, enterprise-grade mobile application designed for seamless event ticket validation and attendance management. Built with modern hybrid mobile technologies, it delivers a robust, offline-first scanning experience for Android devices.
 
